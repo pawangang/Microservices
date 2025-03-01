@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ProductService.Controllers.OnlineDBController",
+    "Method": "GetData",
+    "RelativePath": "api/OnlineDB",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
